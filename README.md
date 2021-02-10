@@ -13,7 +13,8 @@
   * HTML, CSS, Bootstrap
   * JS, jQuery
   * Spring Boot, MVC, Data, Security
-  * Algorithms, data structures, problemsolving
+  * Algorithms, data structures, problem solving
+  * Git, GitHub, Bitbucket
 + Contacts:
   * Phone: +998 93 008-86-36
   * Email: ilyos.developer@gmail.com
