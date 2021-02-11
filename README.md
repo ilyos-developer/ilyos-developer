@@ -8,7 +8,7 @@
 + Skills:
   * Pascal & Delphi core
   * C++ core
-  * Java core
+  * Java core, JavaFX, swing
   * MySQL, PostgreSQL
   * HTML, CSS, Bootstrap
   * JS, jQuery
