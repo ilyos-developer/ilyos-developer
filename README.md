@@ -19,3 +19,5 @@
   * Phone: +998 93 008-86-36
   * Email: ilyos.developer@gmail.com
   * Telegram: [Ilyos Khurozov](https://t.me/IlyosKhurozov "Telegram messenger link")
++ Certificates:
+  * [OCP 1Z0-819 Java SE 11](https://catalog-education.oracle.com/pls/certview/sharebadge?id=59AA557554399600A37239BB4376BD51AB7D9D2C6A5596D42AED4B1877324C66)
