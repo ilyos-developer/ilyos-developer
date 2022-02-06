@@ -1,7 +1,7 @@
 My full name: **Matnazarov Ilyos**
 
 - I am Mobile developer 👨🏼‍💻
-- 🏢 Work at Enter Engineering company
+- 🏢 Work at **Alif tech** company
 - :round_pushpin: _I live in Tashkent_
 
 <!-- 
