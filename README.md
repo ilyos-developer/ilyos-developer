@@ -1,7 +1,7 @@
 My full name: **Matnazarov Ilyos**
 
 - I am Mobile developer 👨🏼‍💻
-- 🏢 Work at **Open FinTech** company
+- 🏢 Work at **ZorDoc** company
 - :round_pushpin: _I live in Tashkent_
 - 📞 Telegram: [@ilyos_developer](https://t.me/ilyos_developer)
 <!-- 
